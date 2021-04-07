@@ -1,0 +1,511 @@
+{   
+
+    "name": "Regions",
+    "children": [
+      {
+        "name": "West",
+        "color" : "beige",
+        "children" : [
+
+    {
+      "name": "Nevada",
+      "color": "lightblue",
+       "children": [
+
+      {"name": "Red Counties", "value" : 15},
+      {"name": "Blue Counties", "value" : 2}
+      ]
+    },
+    {
+      "name": "California",
+      "color": "lightblue",
+       "children": [
+
+      {"name": "Red Counties", "value" : 25},
+      {"name": "Blue Counties", "value" : 33}
+      ]
+    },
+          {
+            "name": "Montana",
+            "color": "salmon",
+            "children": [
+            
+            {"name": "Red Counties", "value" : 50},
+            {"name": "Blue Counties", "value" : 6}
+            ]
+          },
+
+          {
+      "name": "Wyoming",
+      "color": "salmon",
+       "children": [
+      
+      {"name": "Red Counties", "value" : 22},
+      {"name": "Blue Counties", "value" : 1}
+      ]
+    },
+     {
+      "name": "Alaska",
+      "color": "salmon",
+      "children": [
+      
+      {"name": "Red Counties", "value" : 29},
+      {"name": "Blue Counties", "value" : 0}
+      ]
+    },
+
+    {
+      "name": "Utah",
+      "color": "salmon",
+       "children": [
+      
+      {"name": "Red Counties", "value" : 27},
+      {"name": "Blue Counties", "value" : 2}
+      ]
+    },
+
+    {
+      "name": "Hawaii",
+      "color": "lightblue",
+       "children": [
+     
+
+      {"name": "Red Counties", "value" : 0},
+      {"name": "Blue Counties", "value" : 4}
+      ]
+    },
+       {
+      "name": "Colorado",
+      "color": "lightblue",
+       "children": [
+     
+
+      {"name": "Red Counties", "value" : 41},
+      {"name": "Blue Counties", "value" : 23}
+      ]
+    },
+      {
+      "name": "Washington",
+      "color": "lightblue",
+       "children": [
+     
+
+      {"name": "Red Counties", "value" : 27},
+      {"name": "Blue Counties", "value" : 12}
+      ]
+    },
+
+    {
+      "name": "Idaho",
+      "color": "salmon",
+      "children": [
+     
+      {"name": "Red Counties", "value" : 42},
+      {"name": "Blue Counties", "value" : 2}
+      ]
+    },
+       {
+      "name": "Oregon",
+      "color": "lightblue",
+       "children": [
+     
+      {"name": "Red Counties", "value" : 28},
+      {"name": "Blue Counties", "value" : 8}
+      ]
+    }
+
+        ]
+      },{
+        "name": "Midwest",
+         "color" : "beige",
+        "children" : [
+          {
+          "name": "Minnesota",
+          "color": "lightblue",
+           "children": [
+          
+          {"name": "Red Counties", "value" : 78},
+          {"name": "Blue Counties", "value" : 9}
+          ]
+        },
+
+    {
+      "name": "North Dakota",
+      "color": "salmon",
+       "children": [
+      
+      {"name": "Red Counties", "value" : 51},
+      {"name": "Blue Counties", "value" : 2}
+      ]
+    },
+     {
+      "name": "Iowa",
+      "color": "salmon",
+       "children": [
+      
+      {"name": "Red Counties", "value" : 93},
+      {"name": "Blue Counties", "value" : 6}
+      ]
+    },
+     {
+      "name": "Wisconsin",
+      "color": "salmon",
+       "children": [
+      
+      {"name": "Red Counties", "value" : 60},
+      {"name": "Blue Counties", "value" : 12}
+      ]
+    },
+
+    {
+      "name": "South Dakota",
+      "color": "salmon",
+       "children": [
+     
+
+      {"name": "Red Counties", "value" : 61},
+      {"name": "Blue Counties", "value" : 5}
+      ]
+    },
+
+ 
+    {
+      "name": "Nebraska",
+      "color": "salmon",
+       "children": [
+     
+
+      {"name": "Red Counties", "value" : 91},
+      {"name": "Blue Counties", "value" : 2}
+      ]
+    },
+     {
+      "name": "Kentucky",
+      "color": "salmon",
+      "children": [
+    
+      {"name": "Red Counties", "value" : 118},
+      {"name": "Blue Counties", "value" : 2}
+      ]
+    },
+    {
+      "name": "Kansas",
+      "color": "salmon",
+       "children": [
+     
+
+      {"name": "Red Counties", "value" : 103},
+      {"name": "Blue Counties", "value" : 2}
+      ]
+    },
+    {
+      "name": "Michigan",
+      "color": "salmon",
+       "children": [
+     
+      {"name": "Red Counties", "value" : 75},
+      {"name": "Blue Counties", "value" : 8}
+      ]
+    },
+
+    {
+      "name": "Ohio",
+      "color": "salmon",
+       "children": [
+     
+      {"name": "Red Counties", "value" : 81},
+      {"name": "Blue Counties", "value" : 7}
+      ]
+    },
+     {
+      "name": "Indiana",
+      "color": "salmon",
+       "children": [
+     
+      {"name": "Red Counties", "value" : 42},
+      {"name": "Blue Counties", "value" : 2}
+      ]
+    },
+     {
+      "name": "Illinois",
+      "color": "lightblue",
+       "children": [
+   
+      {"name": "Red Counties", "value" : 91},
+      {"name": "Blue Counties", "value" : 11}
+      ]
+    }
+
+        ]
+      },{
+        "name": "Southwest",
+         "color" : "beige",
+        "children" : [
+            {
+      "name": "New Mexico",
+      "color": "lightblue",
+       "children": [
+ 
+      {"name": "Red Counties", "value" : 19},
+      {"name": "Blue Counties", "value" : 14}
+      ]
+    },
+
+    {
+      "name": "Texas",
+      "color": "salmon",
+       "children": [
+     
+      {"name": "Red Counties", "value" : 227},
+      {"name": "Blue Counties", "value" : 27}
+      ]
+    },
+              {
+      "name": "Oklahoma",
+      "color": "salmon",
+       "children": [
+
+      {"name": "Red Counties", "value" : 77},
+      {"name": "Blue Counties", "value" : 0}
+      ]
+    },
+    {
+      "name": "Arizona",
+      "color": "salmon",
+       "children": [
+
+      {"name": "Red Counties", "value" : 11},
+      {"name": "Blue Counties", "value" : 4}
+      ]
+    }
+        ]},{
+        "name": "Southeast",
+         "color" : "beige",
+        "children" : [
+           {
+      "name": "Louisiana",
+      "color": "salmon",
+      "children": [
+
+      {"name": "Red Counties", "value" : 54},
+      {"name": "Blue Counties", "value" : 10}
+      ]
+    },
+    {
+      "name": "Mississippi",
+      "color": "salmon",
+       "children": [
+
+      {"name": "Red Counties", "value" : 56},
+      {"name": "Blue Counties", "value" : 26}
+      ]
+    },
+           {
+      "name": "Georgia",
+      "color": "salmon",
+       "children": [
+      
+      {"name": "Red Counties", "value" : 128},
+      {"name": "Blue Counties", "value" : 31}
+      ]
+    },
+          {
+      "name": "Florida",
+      "color": "salmon",
+       "children": [
+    
+      {"name": "Red Counties", "value" : 58},
+      {"name": "Blue Counties", "value" : 9}
+      ]
+    },
+
+    {
+      "name": "Missouri",
+      "color": "salmon",
+       "children": [
+    
+      {"name": "Red Counties", "value" : 111},
+      {"name": "Blue Counties", "value" : 4}
+      ]
+    },
+    {
+      "name": "Virginia",
+      "color": "lightblue",
+       "children": [
+    
+      {"name": "Red Counties", "value" : 93},
+      {"name": "Blue Counties", "value" : 40}
+      ]
+    },
+
+    {
+      "name": "North Carolina",
+      "color": "salmon",
+       "children": [
+
+      {"name": "Red Counties", "value" : 76},
+      {"name": "Blue Counties", "value" : 24}
+      ]
+    },
+
+    {
+      "name": "South Carolina",
+      "color": "salmon",
+       "children": [
+
+      {"name": "Red Counties", "value" : 31},
+      {"name": "Blue Counties", "value" : 15}
+      ]
+    },
+     {
+      "name": "Arkansas",
+      "color": "salmon",
+       "children": [
+   
+      {"name": "Red Counties", "value" : 29},
+      {"name": "Blue Counties", "value" : 0}
+      ]
+    },
+    {
+      "name": "Alabama",
+      "color": "salmon",
+      "children": [
+    
+      {"name": "Red Counties", "value" : 54},
+      {"name": "Blue Counties", "value" : 13}
+      ]
+    },
+    {
+      "name": "West Virginia",
+      "color": "salmon",
+       "children": [
+    
+      {"name": "Red Counties", "value" : 55},
+      {"name": "Blue Counties", "value" : 0}
+      ]
+    },
+
+    {
+      "name": "Tennessee",
+      "color": "salmon",
+       "children": [
+
+      {"name": "Red Counties", "value" : 92},
+      {"name": "Blue Counties", "value" : 3}
+      ]
+    }
+        ]},{
+        "name": "Northeast",
+         "color" : "beige",
+        "children" : [
+           {
+          "name": "New Hampshire",
+          "color": "lightblue",
+          "children": [
+            
+            {"name": "Red Counties", "value" : 6},
+            {"name": "Blue Counties", "value" : 4}
+            ]
+        },
+          {
+      "name": "Vermont",
+      "color": "lightblue",
+       "children": [
+      
+      {"name": "Red Counties", "value" : 1},
+      {"name": "Blue Counties", "value" : 13}
+      ]
+    },
+    {
+      "name": "Maine",
+      "color": "lightblue",
+       "children": [
+      
+      {"name": "Red Counties", "value" : 78},
+      {"name": "Blue Counties", "value" : 9}
+      ]
+    },
+     {
+      "name": "Massachusetts",
+      "color": "lightblue",
+       "children": [
+     
+      {"name": "Red Counties", "value" : 0},
+      {"name": "Blue Counties", "value" : 14}
+      ]
+    },
+
+    
+    {
+      "name": "Connecticut",
+      "color": "lightblue",
+       "children": [
+     
+      {"name": "Red Counties", "value" : 2},
+      {"name": "Blue Counties", "value" : 6}
+      ]
+    },
+     {
+      "name": "Pennsylvania",
+      "color": "salmon",
+       "children": [
+     
+      {"name": "Red Counties", "value" : 56},
+      {"name": "Blue Counties", "value" : 11}
+      ]
+    },
+
+    {
+      "name": "Maryland",
+      "color": "lightblue",
+       "children": [
+     
+      {"name": "Red Counties", "value" : 17},
+      {"name": "Blue Counties", "value" : 7}
+      ]
+    },
+
+    {
+      "name": "Delaware",
+      "color": "lightblue",
+       "children": [
+      
+      {"name": "Red Counties", "value" : 2},
+      {"name": "Blue Counties", "value" : 1}
+      ]
+    },
+    {
+      "name": "New Jersey",
+      "color": "lightblue",
+       "children": [
+     
+      {"name": "Red Counties", "value" : 9},
+      {"name": "Blue Counties", "value" : 12}
+      ]
+    },
+
+    {
+      "name": "Rhode Island",
+      "color": "lightblue",
+      "children": [
+     
+      {"name": "Red Counties", "value" : 1},
+      {"name": "Blue Counties", "value" : 4}
+      ]
+    },
+
+    {
+      "name": "New York",
+      "color": "lightblue",
+      "children": [
+
+      {"name": "Red Counties", "value" : 46},
+      {"name": "Blue Counties", "value" : 16}
+      ]
+    }
+        ]
+      }
+
+    ]
+
+}

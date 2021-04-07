@@ -1,0 +1,50 @@
+div.commands {
+  font-family: sans-serif;
+  font-size: 1em;
+  font-weight: bold;
+  text-align: center;
+  cursor: default;
+  user-select: none;
+}
+
+.filter {
+  border-radius: 3px;
+  background-color: #eee;
+  padding: 5px;
+  margin: 5px;
+  color: #444;
+  text-align: left;
+  display: inline-block;
+  cursor: default;
+}
+
+.tick line {
+  stroke: black;
+}
+
+.tick {
+  stroke: black;
+}
+
+.tick text {
+  stroke: none;
+  fill: black;
+}
+
+.scatterplot-title {
+  font-size: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+div.tooltip-donut {
+  position: absolute;
+  text-align: center;
+  padding: .5rem;
+  background-color: black;
+  color: #fff;
+  border: 1px solid #313639;
+  border-radius: 8px;
+  pointer-events: none;
+  font-size: 16px;
+  white-space: pre;
+}

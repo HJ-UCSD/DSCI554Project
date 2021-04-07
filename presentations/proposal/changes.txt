@@ -1,0 +1,3 @@
+Replaced all the graphs/charts in the presentation with images.
+Added technology stack we will be using.
+Changed description of slides #1, #4, #5, and #6 to be more specific and make the idea less diversified in TRANSCRIPT.md.
