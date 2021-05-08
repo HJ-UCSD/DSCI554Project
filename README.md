@@ -4,13 +4,6 @@
 
 Team name: Uncharted
 
-Team members:
-
-- Henry Jiao <henrygji@usc.edu>
-- Griffin Weinhold <gweinhol@usc.edu>
-- Josh Haug <jhaug@usc.edu>
-- Avinash Sharma <sharmaav@usc.edu>
-
 ---
 
 ## Artifacts
